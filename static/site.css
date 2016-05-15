@@ -1,0 +1,41 @@
+#home {
+    background-color: #F08080;
+    height: 100vh;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Source Code Pro', 'menlo', monospace;
+    text-transform: lowercase;
+    font-size: 36px;
+}
+
+.name {
+    margin-top: 200px;
+}
+
+ul {
+    list-style-type: none;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    display: inline;
+    padding: 5px;
+}
+
+i {
+    color: white;
+}
+
+.links {
+    font-size: 30px;
+}
+
+.sites {
+    font-size: 20px;
+    padding-top: 20px;
+}
