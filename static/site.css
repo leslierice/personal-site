@@ -1,5 +1,5 @@
 #home {
-    background-color: #F08080;
+    background-color: #FFA07A;
     height: 100vh;
     color: white;
     text-align: center;
@@ -38,4 +38,8 @@ i {
 .sites {
     font-size: 20px;
     padding-top: 20px;
+}
+
+.row {
+    /*text-align: center;*/
 }
